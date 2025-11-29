@@ -1,0 +1,19 @@
+Deterministic Finite Automaton (M):
+Multimea Starilor (Q): { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 }
+Alfabetul (Sigma): { a, b, c }
+Starea Initiala (q0): 0
+Starile Finale (F): { 6, 10 }
+
+Stare   a       b       c       
+--------------------------------
+->0     1       -       -       
+1       -       2       -       
+2       3       -       -       
+3       4       5       6       
+4       7       -       -       
+5       -       8       -       
+6*      9       -       -       
+7       4       5       6       
+8       4       5       6       
+9       -       10      -       
+10*     9       -       -       

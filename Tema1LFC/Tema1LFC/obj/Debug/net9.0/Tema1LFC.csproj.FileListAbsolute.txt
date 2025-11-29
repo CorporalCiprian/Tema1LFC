@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Teme\Tema1LFC\Tema1LFC\bin\Debug\net9.0\Tema1LFC.exe
+C:\Users\HP\Desktop\Teme\Tema1LFC\Tema1LFC\bin\Debug\net9.0\Tema1LFC.deps.json
+C:\Users\HP\Desktop\Teme\Tema1LFC\Tema1LFC\bin\Debug\net9.0\Tema1LFC.runtimeconfig.json
+C:\Users\HP\Desktop\Teme\Tema1LFC\Tema1LFC\bin\Debug\net9.0\Tema1LFC.dll
+C:\Users\HP\Desktop\Teme\Tema1LFC\Tema1LFC\bin\Debug\net9.0\Tema1LFC.pdb
+C:\Users\HP\Desktop\Teme\Tema1LFC\Tema1LFC\obj\Debug\net9.0\Tema1LFC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Teme\Tema1LFC\Tema1LFC\obj\Debug\net9.0\Tema1LFC.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Teme\Tema1LFC\Tema1LFC\obj\Debug\net9.0\Tema1LFC.AssemblyInfo.cs
+C:\Users\HP\Desktop\Teme\Tema1LFC\Tema1LFC\obj\Debug\net9.0\Tema1LFC.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Teme\Tema1LFC\Tema1LFC\obj\Debug\net9.0\Tema1LFC.dll
+C:\Users\HP\Desktop\Teme\Tema1LFC\Tema1LFC\obj\Debug\net9.0\refint\Tema1LFC.dll
+C:\Users\HP\Desktop\Teme\Tema1LFC\Tema1LFC\obj\Debug\net9.0\Tema1LFC.pdb
+C:\Users\HP\Desktop\Teme\Tema1LFC\Tema1LFC\obj\Debug\net9.0\Tema1LFC.genruntimeconfig.cache
+C:\Users\HP\Desktop\Teme\Tema1LFC\Tema1LFC\obj\Debug\net9.0\ref\Tema1LFC.dll
