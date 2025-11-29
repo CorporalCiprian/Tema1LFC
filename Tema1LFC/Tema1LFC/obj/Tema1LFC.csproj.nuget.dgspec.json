@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\Teme\\Tema1LFC\\Tema1LFC\\Tema1LFC.csproj": {}
+    "C:\\Users\\HP\\Documents\\GitHub\\Tema1LFC\\Tema1LFC\\Tema1LFC\\Tema1LFC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\Teme\\Tema1LFC\\Tema1LFC\\Tema1LFC.csproj": {
+    "C:\\Users\\HP\\Documents\\GitHub\\Tema1LFC\\Tema1LFC\\Tema1LFC\\Tema1LFC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Teme\\Tema1LFC\\Tema1LFC\\Tema1LFC.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\GitHub\\Tema1LFC\\Tema1LFC\\Tema1LFC\\Tema1LFC.csproj",
         "projectName": "Tema1LFC",
-        "projectPath": "C:\\Users\\HP\\Desktop\\Teme\\Tema1LFC\\Tema1LFC\\Tema1LFC.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\Tema1LFC\\Tema1LFC\\Tema1LFC\\Tema1LFC.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\Teme\\Tema1LFC\\Tema1LFC\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\GitHub\\Tema1LFC\\Tema1LFC\\Tema1LFC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VS shared\\NuGetPackages"

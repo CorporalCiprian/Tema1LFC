@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Teme\\Tema1LFC\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitHub\\Tema1LFC\\Tema1LFC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09876601-F456-4C84-B200-13FFFAD34204}|Tema1LFC\\Tema1LFC.csproj|c:\\users\\hp\\desktop\\teme\\tema1lfc\\tema1lfc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09876601-F456-4C84-B200-13FFFAD34204}|Tema1LFC\\Tema1LFC.csproj|c:\\users\\hp\\documents\\github\\tema1lfc\\tema1lfc\\tema1lfc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09876601-F456-4C84-B200-13FFFAD34204}|Tema1LFC\\Tema1LFC.csproj|solutionrelative:tema1lfc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Teme\\Tema1LFC\\Tema1LFC\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Tema1LFC\\Tema1LFC\\Tema1LFC\\Program.cs",
               "RelativeDocumentMoniker": "Tema1LFC\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Teme\\Tema1LFC\\Tema1LFC\\Program.cs*",
-              "RelativeToolTip": "Tema1LFC\\Program.cs*",
-              "ViewState": "AgIAADgAAAAAAAAAAAD4v0sAAAAxAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Tema1LFC\\Tema1LFC\\Tema1LFC\\Program.cs",
+              "RelativeToolTip": "Tema1LFC\\Program.cs",
+              "ViewState": "AgIAAKsBAAAAAAAAAADwvwYCAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T18:43:30.25Z",
               "EditorCaption": ""

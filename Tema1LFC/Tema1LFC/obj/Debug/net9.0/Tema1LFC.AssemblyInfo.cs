@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tema1LFC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07695ca458638ba1c65f2b33ab73e65739d60561")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tema1LFC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tema1LFC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
